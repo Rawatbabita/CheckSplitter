@@ -1,0 +1,12 @@
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/bin/Debug/net7.0/CheckSplitterLib.deps.json
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/bin/Debug/net7.0/CheckSplitterLib.dll
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/bin/Debug/net7.0/CheckSplitterLib.pdb
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/CheckSplitterLib.csproj.AssemblyReference.cache
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/CheckSplitterLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/CheckSplitterLib.AssemblyInfoInputs.cache
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/CheckSplitterLib.AssemblyInfo.cs
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/CheckSplitterLib.csproj.CoreCompileInputs.cache
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/CheckSplitterLib.dll
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/refint/CheckSplitterLib.dll
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/CheckSplitterLib.pdb
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/ref/CheckSplitterLib.dll
