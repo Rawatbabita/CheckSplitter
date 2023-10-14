@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "blcgKxI71pXMItPgGffQP6QTD65t8D4cFRCrAjoQv4mediAFL2JORyoxpelVW/ZpW1H2lJGxJO1MVoiFuC8Q1A==",
+  "dgSpecHash": "lLdSVAIXnOnlxFTCHs5Dnofj2SNitW003zHFIjhT/PpVK+qGuPK7eWUcFqNt08ZJglB3FyUE0YUzdK1wAkxuDg==",
   "success": true,
   "projectFilePath": "/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/CheckSplitterLib.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/babitarawat/.nuget/packages/mstest.testadapter/3.1.1/mstest.testadapter.3.1.1.nupkg.sha512",
+    "/Users/babitarawat/.nuget/packages/mstest.testframework/3.1.1/mstest.testframework.3.1.1.nupkg.sha512"
+  ],
   "logs": []
 }

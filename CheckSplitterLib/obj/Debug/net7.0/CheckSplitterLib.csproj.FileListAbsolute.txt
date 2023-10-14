@@ -10,3 +10,9 @@
 /Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/refint/CheckSplitterLib.dll
 /Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/CheckSplitterLib.pdb
 /Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/ref/CheckSplitterLib.dll
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/obj/Debug/net7.0/CheckSplitterLib.csproj.CopyComplete
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/babitarawat/Desktop/College/sem2/Web/CheckSplitter/CheckSplitterLib/bin/Debug/net7.0/Microsoft.TestPlatform.AdapterUtilities.dll
